@@ -161,7 +161,7 @@ After successfully installing BMBF onto your Quest you should be able to find it
 ![UnknownMenu](/.assets/images/beginners-guide/quest_home-menu.jpg)
 
 Open it and allow file access after starting it if prompted. Now follow the on-screen instructions carefully.
-After you finished you should see [BeastSaber](https://bsaber.com).
+After you finished you should see [BeastSaber](https://bsaber.info).
 
 If at any point during the install process, you get the Restore App popup just click Close.
 This warning is directed to pirated versions of the game so there will likely be no consequences for ignoring it if you

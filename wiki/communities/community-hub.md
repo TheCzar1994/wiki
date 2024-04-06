@@ -29,7 +29,7 @@ for those wanting to test their acc abilities against difficult requirements.
 Home of the map curation team and annual mapping awards, BeastSaber aims to be a community hub to connect you to the more
 specialized areas of the community!
 
-[Discord](https://discord.gg/5NjfSAC) | [Website](https://bsaber.com)
+[Discord](https://discord.gg/5NjfSAC) | [Website](https://bsaber.info)
 
 ## BeatKhana
 
